@@ -58,8 +58,8 @@ body {
 .music-icon {
 	width: 40px;
 }
-.price-column {
-}
+/* .price-column {
+} */
 .change-link {
 	color: hsl(224, 23%, 55%);
 	font-weight: bold;
